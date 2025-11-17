@@ -1,0 +1,24 @@
+RELATÓRIO DE VENDAS
+Arquivo processado: a.csv
+Vendas processadas: 3
+ESTATÍSTICAS
+Total de vendas: R$ 5700.00
+Produto mais vendido: Mouse (5 unidades)
+Maior faturamento: Notebook (R$ 5000.00)
+Valor médio por venda: R$ 1900.00
+DETALHAMENTO DAS VENDAS
+Data: 01/11/2025
+Produto: Notebook
+Quantidade: 2
+Valor Unitário: R$ 2500.00
+Valor Total: R$ 5000.00
+Data: 02/11/2025
+Produto: Mouse
+Quantidade: 5
+Valor Unitário: R$ 50.00
+Valor Total: R$ 250.00
+Data: 03/11/2025
+Produto: Teclado
+Quantidade: 3
+Valor Unitário: R$ 150.00
+Valor Total: R$ 450.00
